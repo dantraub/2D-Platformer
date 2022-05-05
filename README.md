@@ -6,7 +6,8 @@ For some reason GitHub desktop lost the location of my repository in my desktop 
 Built using Godot 3.2.3
 
 The player sprite is adaptated from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
-I used a free license bomb png
+
+I used a free license bomb png and cave background
 
 ## References
 None
